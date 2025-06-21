@@ -6,7 +6,7 @@
 <!---------------------------- Typewriter animation ----------------------------->
 # Hello👋, It's me Gaurav!👨🏽‍💻
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=00F70AFF&lines=I'm+a+Software+Engineer;I'm+a+Full+Stack+Web+Developer;I'm+a+MERN+Stack+Developer)
-<img align="right" alt="Visit Count" src="https://profile-counter.glitch.me/gauravdubey19/count.svg?"  />
+<img align="right" alt="Visit Count" src="https://profile-counter.glitch.me/gauravdubeydev/count.svg?"  />
 
 
 <!---------------------------- About Me ----------------------------->
